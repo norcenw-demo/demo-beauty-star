@@ -9623,6 +9623,6 @@ body.search-template #MainContent,
 /*# sourceMappingURL=/cdn/shop/t/4/assets/theme.css.map?v=170685743337479908951774531981 */
 
 .product-card-style-card {
-    background-color: #ffffff;
-    border: 2px solid #f7f7f5;
+    background-color: #ffffff!important;
+    border: 2px solid #f7f7f5!important;
 }
