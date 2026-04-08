@@ -10,9 +10,9 @@
 .featured-collection .tabs__btn.btn--underline.active:after {
   width: 100%;
 }
-.featured-collection .tabs__btn.btn--underline:not(.active):not(:hover) {
+/* .featured-collection .tabs__btn.btn--underline:not(.active):not(:hover) {
   opacity: 0.6;
-}
+} */
 .featured-collection .tabs-nav__inner {
   column-gap: 3.2rem;
   row-gap: 1.2rem;
