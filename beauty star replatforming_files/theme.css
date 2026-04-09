@@ -2774,7 +2774,8 @@ button svg,
     .btn-hover-wrapper:hover .btn--icon,
     .btn-hover-wrapper:hover .btn--secondary,
     .btn-hover-wrapper:hover .btn--outline {
-        color: rgb(var(--color-button-text))
+        color: rgb(var(--color-button-text));
+        fill: rgb(var(--color-button-text));
     }
 
     .btn-hover-wrapper:hover .btn--primary {
